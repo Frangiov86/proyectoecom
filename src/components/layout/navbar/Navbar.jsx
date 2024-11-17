@@ -1,4 +1,3 @@
-// Navbar.jsx
 import React, { useState } from "react";
 import { CartWidget } from "../../common/carWidget/CartWidget";
 import { Darkbar } from "../../common/darkbar/Darkbar";
